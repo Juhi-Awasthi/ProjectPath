@@ -102,25 +102,25 @@ npm start
 ```
 📸 Screenshots (Add later)
 
-Landing Page
+ - Landing Page
 
-Fresher Dashboard
+ - Fresher Dashboard
 
-Professional Dashboard
+ - Professional Dashboard
 
-Project Details Page
+ - Project Details Page
 
 🤝 Contributing
 
 Contributions are welcome!
 
-Fork the repo
+ - Fork the repo
 
-Create a new branch (feature/your-feature)
+ - Create a new branch (feature/your-feature)
 
-Commit and push
+ - Commit and push
 
-Open a Pull Request 🎉
+ - Open a Pull Request 🎉
 
 📜 License
 
