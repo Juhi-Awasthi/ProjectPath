@@ -44,15 +44,15 @@ It bridges the gap between **freshers** and **professionals** by helping student
 ---
 
 ## 📂 Folder Structure  
-projectpath/
-│── client/ # React frontend
-│ └── src/
-│ ├── components/ # Shared components
-│ ├── Fresher/ # Fresher dashboard pages
-│ ├── Professional/ # Professional dashboard pages
-│── server/ # Express backend
-│── package.json
-│── README.md
+projectpath/<br>
+│── client/ # React frontend<br>
+│ └── src/<br>
+│ ├── components/ # Shared components<br>
+│ ├── Fresher/ # Fresher dashboard pages<br>
+│ ├── Professional/ # Professional dashboard pages<br>
+│── server/ # Express backend<br>
+│── package.json<br>
+│── README.md<br>
 
 
 ---
