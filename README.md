@@ -128,9 +128,3 @@ This project is licensed under the MIT License.
 
 
 ---
-```bash
-✅ Now you can copy this **entire block** into your GitHub README, and it will stop exactly at the License section.  
-
-Do you also want me to add **clickable badges** (like stars, forks, issues) that auto-update from your GitHub repo?
-```
-
