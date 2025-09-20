@@ -63,42 +63,43 @@ projectpath/
 ```bash
 git clone https://github.com/your-username/projectverse.git
 cd projectverse
+```
 
 2️⃣ Install dependencies
 
 Frontend
-
+```bash
 cd client
 npm install
-
+```
 
 Backend
-
+```bash
 cd server
 npm install
-
+```
 3️⃣ Add Environment Variables
 
 Create a .env file in server/ with:
-
+```bash
 MONGO_URI=your_mongodb_atlas_connection_string
 JWT_SECRET=your_secret_key
 GOOGLE_CLIENT_ID=your_google_client_id
 GOOGLE_CLIENT_SECRET=your_google_client_secret
-
+```
 4️⃣ Run the project
 
 Backend
-
+```bash
 cd server
 npm run dev
-
+```
 
 Frontend
-
+```bash
 cd client
 npm start
-
+```
 📸 Screenshots (Add later)
 
 Landing Page
@@ -127,9 +128,9 @@ This project is licensed under the MIT License.
 
 
 ---
-
+```bash
 ✅ Now you can copy this **entire block** into your GitHub README, and it will stop exactly at the License section.  
 
 Do you also want me to add **clickable badges** (like stars, forks, issues) that auto-update from your GitHub repo?
-
+```
 
