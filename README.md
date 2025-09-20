@@ -100,15 +100,6 @@ Frontend
 cd client
 npm start
 ```
-📸 Screenshots (Add later)
-
- - Landing Page
-
- - Fresher Dashboard
-
- - Professional Dashboard
-
- - Project Details Page
 
 🤝 Contributing
 
