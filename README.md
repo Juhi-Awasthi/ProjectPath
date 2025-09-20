@@ -44,4 +44,92 @@ It bridges the gap between **freshers** and **professionals** by helping student
 ---
 
 ## 📂 Folder Structure  
+projectpath/
+│── client/ # React frontend
+│ └── src/
+│ ├── components/ # Shared components
+│ ├── Fresher/ # Fresher dashboard pages
+│ ├── Professional/ # Professional dashboard pages
+│── server/ # Express backend
+│── package.json
+│── README.md
+
+
+---
+
+## ⚙️ Installation & Setup  
+
+### 1️⃣ Clone the repository  
+```bash
+git clone https://github.com/your-username/projectverse.git
+cd projectverse
+
+2️⃣ Install dependencies
+
+Frontend
+
+cd client
+npm install
+
+
+Backend
+
+cd server
+npm install
+
+3️⃣ Add Environment Variables
+
+Create a .env file in server/ with:
+
+MONGO_URI=your_mongodb_atlas_connection_string
+JWT_SECRET=your_secret_key
+GOOGLE_CLIENT_ID=your_google_client_id
+GOOGLE_CLIENT_SECRET=your_google_client_secret
+
+4️⃣ Run the project
+
+Backend
+
+cd server
+npm run dev
+
+
+Frontend
+
+cd client
+npm start
+
+📸 Screenshots (Add later)
+
+Landing Page
+
+Fresher Dashboard
+
+Professional Dashboard
+
+Project Details Page
+
+🤝 Contributing
+
+Contributions are welcome!
+
+Fork the repo
+
+Create a new branch (feature/your-feature)
+
+Commit and push
+
+Open a Pull Request 🎉
+
+📜 License
+
+This project is licensed under the MIT License.
+
+
+---
+
+✅ Now you can copy this **entire block** into your GitHub README, and it will stop exactly at the License section.  
+
+Do you also want me to add **clickable badges** (like stars, forks, issues) that auto-update from your GitHub repo?
+
 
